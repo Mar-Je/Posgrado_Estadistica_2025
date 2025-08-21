@@ -9,4 +9,13 @@ Semana 1 (07/08/2025): Inicio del curso :fire:
  + Credenciales Git 
  
  
+ Semana 2 (14/08/25)
+ + Datos de computadora a r en cvs
+ + Ver tablas
+ + Graficas (Boxplot)
  
+ Semana 3 (21/08/25)
+ + Tablas de datos
+ + Datos de url a R 
+ + Graficas de boxplot
+ + Copilacion de datos en pdf y html
