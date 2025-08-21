@@ -8,3 +8,5 @@ Semana 1 (07/08/2025): Inicio del curso :fire:
  + Sincronizar nube y computadora
  + Credenciales Git 
  
+ 
+ 
