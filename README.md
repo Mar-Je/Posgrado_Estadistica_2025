@@ -3,7 +3,7 @@ Material del curso de Posgrado de Experimentación y Métodos Estadísticos en M
 
 ## Contenido del curso :sos:
 
-Semana 1 (07/08/2025): Inicio del curso :fire: 
+ Semana 1 (07/08/2025): Inicio del curso :fire: 
  + Crear repositorio 
  + Sincronizar nube y computadora
  + Credenciales Git 
@@ -19,3 +19,19 @@ Semana 1 (07/08/2025): Inicio del curso :fire:
  + Datos de url a R 
  + Graficas de boxplot
  + Copilacion de datos en pdf y html
+ 
+ Semana 4 (28/08/25)
+ + Exportación de datos 
+ + Craer factores 
+ + Calcular medias, desviacion estandar y varianza 
+ + Realizar boxplot
+ + Preubas y graficos de normalidad 
+ + Pruebas de Homogeneidad 
+ + Preubas de t (De dos colas o una cola)
+ + Medir efectos (Crear funcion)
+ 
+ 
+ 
+ 
+ 
+ 
