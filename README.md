@@ -30,7 +30,19 @@ Material del curso de Posgrado de Experimentación y Métodos Estadísticos en M
  + Preubas de t (De dos colas o una cola)
  + Medir efectos (Crear funcion)
  
- 
+ Semana 5 
+ + Calculo de media movil
+ + Eliminar factores que no existen
+ + Plantamiento de hipotesis
+ + Prubeas de t
+ + Interpretacion de datos
+ + Muestras independientes, dependientes y una sola
+
+Semana 7 (25/09/25)
++ Regresion lineal simple
++ Prueba de barlett
++ Prueba de tukey
++ boxplot
  
  
  
